@@ -25,7 +25,6 @@ for i in sieve_gen_primes():
     count+=1        
     
             
-
 et = time.time()
 
 
